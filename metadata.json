@@ -1,0 +1,5 @@
+{
+  "name": "MyCityBoard",
+  "description": "An AI-powered civic transparency app that collects local council data and translates it into simple, citizen-friendly updates through AI-generated summaries and visual storytelling.",
+  "requestFramePermissions": ["geolocation"]
+}
